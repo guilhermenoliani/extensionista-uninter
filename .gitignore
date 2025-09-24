@@ -1,0 +1,38 @@
+# ==========================
+# Node (Frontend)
+# ==========================
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.vite/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# ==========================
+# Python (Backend)
+# ==========================
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+backend/*.log
+
+# ==========================
+# IDEs / Editor
+# ==========================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.DS_Store
+
+# ==========================
+# Misc
+# ==========================
+*.swp
+*.bak
+*.tmp
